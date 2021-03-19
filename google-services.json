@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287132211100",
+    "project_id": "ddpaytmfunda-67885",
+    "storage_bucket": "ddpaytmfunda-67885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287132211100:android:c06d0829e42f271183da59",
+        "android_client_info": {
+          "package_name": "com.example.ddpaytmfunda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287132211100-vvbanl0hb5c7dgqa48e92amki6888v19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxFUAfqZLm1CcxfY5sJBIwqeemhmj7lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287132211100-vvbanl0hb5c7dgqa48e92amki6888v19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

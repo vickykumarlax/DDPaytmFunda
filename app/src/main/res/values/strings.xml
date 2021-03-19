@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DDPaytmFunda</string>
+    <string name="next">Next</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="next_activity">next activity</string>
+    <string name="logout">Logout</string>
+</resources>
